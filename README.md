@@ -1,5 +1,5 @@
 # Round2-Team-Flash-Devs
-Repository for team Team Flash Devs for Round 2
+
 # 🌾 AgriTrustX: The Complete Farmer Operating System
 
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
