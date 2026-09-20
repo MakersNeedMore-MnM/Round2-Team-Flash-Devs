@@ -4,7 +4,7 @@
 Team Members:
 Pratham T Sherigara ,
 Bhavith Kumar ,
-Anvaya D ,
+Anvaya D .
 
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit)
